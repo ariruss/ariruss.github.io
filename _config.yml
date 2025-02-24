@@ -15,7 +15,6 @@ title: Arionna Russell's Portfolio # This is what shows up in the tab of the bro
 name: Arionna Russell
 headline: With friend's like these, who needs enemies
 description: >- # dont remove this line. this will ignore all new lines until the next section
-I am a mechanical engineer who makes things work and then makes them better.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
